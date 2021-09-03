@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "../cub3d.h"
 
 void	map_in_array_parser(t_all *all, int cnt)
 {

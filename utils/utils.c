@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "../cub3d.h"
 
 int		check_side2(t_all *all, int quarter)
 {

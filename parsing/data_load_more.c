@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "../cub3d.h"
 
 void	player_detect(t_all *all, int lines, int i)
 {

@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "../cub3d.h"
 
 void	no_clip2(t_all *all, int a, double *temppx, double *temppy)
 {

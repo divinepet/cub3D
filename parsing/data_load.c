@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "../cub3d.h"
 
 void	tex_parser2(t_all *all, char *s, int code)
 {

@@ -1,12 +1,14 @@
 R 1024 768
 
-NO ./tex/111.xpm
-F 97, 200,17
-WE     ./tex/111.xpm
-EA               ./tex/111.xpm
-S        ./tex/brain_coral.xpm
-SO ./tex/111.xpm
-C 34, 12, 4
+NO ./tex/11.xpm
+WE ./tex/ice.xpm
+EA ./tex/ice.xpm
+SO ./tex/11.xpm
+
+S  ./tex/coral_sprite.xpm
+
+C 172, 200, 245
+F 0, 78, 122
 
 
 11111111111111111111111111111

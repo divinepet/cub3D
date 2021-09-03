@@ -17,7 +17,6 @@ SRCS			=	main.c \
 					./utils/utils_3.c \
 					./errors/errors.c
 OBJS			= $(SRCS:.c=.o)
-
 RM				= rm -f
 CFLAGS			= -O3 -g -I.
 LIBS			= -Lmlx -lmlx -framework OpenGL -framework AppKit -lm

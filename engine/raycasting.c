@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "../cub3d.h"
 
 double	find_side(t_all *all, int quarter, double start)
 {

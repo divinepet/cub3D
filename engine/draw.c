@@ -1,4 +1,4 @@
-#include "cub3d.h"
+#include "../cub3d.h"
 
 void	init_3d_vars(t_all *all, double *iter, double *mx, int wall)
 {
